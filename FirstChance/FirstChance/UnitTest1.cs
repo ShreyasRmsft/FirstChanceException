@@ -14,16 +14,17 @@ namespace FirstChance
 
         private void loop()
         {
-            for (int i = 0; i < 100000; i++)
+            while(true)
+            //for (int i = 0; i < 100000; i++)
             {
-                try
-                {
-                    throw new Exception("e");
-                }
-                catch
-                {
+                //try
+                //{
+                //    throw new Exception("e");
+                //}
+                //catch
+                //{
 
-                }
+                //}
             }
         }
     }
