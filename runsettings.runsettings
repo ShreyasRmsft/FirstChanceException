@@ -9,7 +9,7 @@
             <DataCollector friendlyName="blame" enabled="True">
                 <Configuration>
                     <ResultsDirectory>C:\TestResults</ResultsDirectory>
-                    <CollectDump CollectAlways="true" DumpType="mini" IncludeFirstChanceExceptions="false"/>
+                    <CollectDump CollectAlways="true" DumpType="minsi" IncludeFirstChanceExceptions="false"/>
                 </Configuration>
             </DataCollector>
         </DataCollectors>
