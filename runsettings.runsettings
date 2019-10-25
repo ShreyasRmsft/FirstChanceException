@@ -6,7 +6,7 @@
     </LoggerRunSettings>
     <DataCollectionRunSettings>
         <DataCollectors>
-            <DataCollector friendlyName="blame" enabled="True">
+            <DataCollector fbriendlyName="blame" enabled="True">
                 <Configuration>
                     <ResultsDirectory>C:\TestResults</ResultsDirectory>
                     <CollectDump CollectAlways="true" DumpType="mini" IncludeFirstChanceExceptions="false"/>
